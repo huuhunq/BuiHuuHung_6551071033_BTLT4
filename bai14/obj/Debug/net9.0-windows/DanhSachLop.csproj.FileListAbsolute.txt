@@ -1,0 +1,16 @@
+D:\bai14\bin\Debug\net9.0-windows\DanhSachLop.exe
+D:\bai14\bin\Debug\net9.0-windows\DanhSachLop.deps.json
+D:\bai14\bin\Debug\net9.0-windows\DanhSachLop.runtimeconfig.json
+D:\bai14\bin\Debug\net9.0-windows\DanhSachLop.dll
+D:\bai14\bin\Debug\net9.0-windows\DanhSachLop.pdb
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.AssemblyInfoInputs.cache
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.AssemblyInfo.cs
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.csproj.CoreCompileInputs.cache
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.dll
+D:\bai14\obj\Debug\net9.0-windows\refint\DanhSachLop.dll
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.pdb
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.genruntimeconfig.cache
+D:\bai14\obj\Debug\net9.0-windows\ref\DanhSachLop.dll
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.frmCapNhat.resources
+D:\bai14\obj\Debug\net9.0-windows\DanhSachLop.csproj.GenerateResource.cache
