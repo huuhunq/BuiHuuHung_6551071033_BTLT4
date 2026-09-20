@@ -1,0 +1,16 @@
+D:\bai19\bin\Debug\net9.0-windows\ThanhTrangThai.exe
+D:\bai19\bin\Debug\net9.0-windows\ThanhTrangThai.deps.json
+D:\bai19\bin\Debug\net9.0-windows\ThanhTrangThai.runtimeconfig.json
+D:\bai19\bin\Debug\net9.0-windows\ThanhTrangThai.dll
+D:\bai19\bin\Debug\net9.0-windows\ThanhTrangThai.pdb
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.frmTrangThai.resources
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.csproj.GenerateResource.cache
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.AssemblyInfoInputs.cache
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.AssemblyInfo.cs
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.csproj.CoreCompileInputs.cache
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.dll
+D:\bai19\obj\Debug\net9.0-windows\refint\ThanhTrangThai.dll
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.pdb
+D:\bai19\obj\Debug\net9.0-windows\ThanhTrangThai.genruntimeconfig.cache
+D:\bai19\obj\Debug\net9.0-windows\ref\ThanhTrangThai.dll
