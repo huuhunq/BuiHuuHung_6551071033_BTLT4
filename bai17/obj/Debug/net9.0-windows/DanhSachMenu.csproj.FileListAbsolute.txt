@@ -1,0 +1,16 @@
+D:\bai17\bin\Debug\net9.0-windows\DanhSachMenu.exe
+D:\bai17\bin\Debug\net9.0-windows\DanhSachMenu.deps.json
+D:\bai17\bin\Debug\net9.0-windows\DanhSachMenu.runtimeconfig.json
+D:\bai17\bin\Debug\net9.0-windows\DanhSachMenu.dll
+D:\bai17\bin\Debug\net9.0-windows\DanhSachMenu.pdb
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.AssemblyInfoInputs.cache
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.AssemblyInfo.cs
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.csproj.CoreCompileInputs.cache
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.dll
+D:\bai17\obj\Debug\net9.0-windows\refint\DanhSachMenu.dll
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.pdb
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.genruntimeconfig.cache
+D:\bai17\obj\Debug\net9.0-windows\ref\DanhSachMenu.dll
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.frmCapNhat.resources
+D:\bai17\obj\Debug\net9.0-windows\DanhSachMenu.csproj.GenerateResource.cache
