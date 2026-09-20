@@ -1,0 +1,14 @@
+D:\bai18\bin\Debug\net9.0-windows\UngDungMDI.exe
+D:\bai18\bin\Debug\net9.0-windows\UngDungMDI.deps.json
+D:\bai18\bin\Debug\net9.0-windows\UngDungMDI.runtimeconfig.json
+D:\bai18\bin\Debug\net9.0-windows\UngDungMDI.dll
+D:\bai18\bin\Debug\net9.0-windows\UngDungMDI.pdb
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.AssemblyInfoInputs.cache
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.AssemblyInfo.cs
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.csproj.CoreCompileInputs.cache
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.dll
+D:\bai18\obj\Debug\net9.0-windows\refint\UngDungMDI.dll
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.pdb
+D:\bai18\obj\Debug\net9.0-windows\UngDungMDI.genruntimeconfig.cache
+D:\bai18\obj\Debug\net9.0-windows\ref\UngDungMDI.dll

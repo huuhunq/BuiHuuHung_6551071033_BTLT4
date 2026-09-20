@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "UngDungMDI/1.0.0": {
+        "runtime": {
+          "UngDungMDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UngDungMDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
